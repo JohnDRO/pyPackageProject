@@ -13,7 +13,7 @@ Package a VHDL project as an Vivado IP. Ability to detect interfaces as AXI 4, A
 
 ## to-do list
 
-- [ ] Args
+- [ X ] Args
 - [ ] Auto-detect some interfaces
 - [ ] Export the TCL Script
 - [ ] Execute the TCL Script
